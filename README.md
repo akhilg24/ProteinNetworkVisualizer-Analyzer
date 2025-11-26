@@ -3,7 +3,7 @@
 A simple yet powerful web-based visualizer for protein-protein interaction networks. This tool helps researchers and students explore biological networks through interactive graph visualization, AI-powered community detection, and network analysis algorithms. Built with React for the frontend and FastAPI with NetworkX for graph processing, it provides an intuitive way to understand complex protein relationships and predict potential interactions.
 
 <!-- Add screenshot.png to the root directory to display the dashboard image -->
-<!-- ![BioGraph Explorer Dashboard](./screenshot.png) -->
+[BioGraph Explorer Dashboard](./screenshot.png) 
 
 ## What It Is
 
